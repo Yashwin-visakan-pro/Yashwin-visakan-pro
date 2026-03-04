@@ -1,6 +1,6 @@
-# 👋 Hey, I'm <YOUR NAME>
+# 👋 Hey, I'm G.Yashwin Visakan
 
-I'm a 9th grade student from Tirunelveli, India, who loves building things with **Python**, AI, and automation.  
+I'm a 9th grade student , who loves building things with **Python**, AI, and automation.  
 I enjoy experimenting with projects like Jarvis-style voice assistants, ML models, and fun prototypes that connect software with the real world. [web:21][web:27]
 
 ---
@@ -50,8 +50,7 @@ These are the kind of projects I work on or want to build:
 ## 📫 Connect With Me
 
 - 💼 GitHub: [@your-username](https://github.com/your-username)
-- ✉️ Email: yourmail@example.com
-- 🌍 (Optional) Portfolio / Linktree: your-link-here
+- ✉️ Email: yashwinvisakan@gmail.com
 
 Thanks for visiting my profile! ⭐  
 If you find any of my projects useful or interesting, feel free to open an issue, suggest ideas, or just say hi.
