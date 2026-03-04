@@ -49,7 +49,7 @@ These are the kind of projects I work on or want to build:
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [@your-username](https://github.com/your-username)
+- 💼 GitHub: Yashwin-visakan-pro
 - ✉️ Email: yashwinvisakan@gmail.com
 
 Thanks for visiting my profile! ⭐  
